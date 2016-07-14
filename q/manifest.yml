@@ -1,0 +1,7 @@
+---
+applications:
+- name: q
+  memory: 128M
+  instances: 1
+  services:
+   - q-postgresqlelephantsql-2016-07-14 07:37:01.924
