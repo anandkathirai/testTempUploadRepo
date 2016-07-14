@@ -1,0 +1,7 @@
+---
+applications:
+- name: op
+  memory: 800M
+  instances: 1
+  services:
+   - op-mongodbmlab-2016-07-14 06:41:26.887
