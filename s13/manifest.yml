@@ -1,0 +1,7 @@
+---
+applications:
+- name: s13
+  memory: 1024M
+  instances: 1
+  services:
+   - s13-mongodbmongodb-2016-07-14 07:41:45.204
