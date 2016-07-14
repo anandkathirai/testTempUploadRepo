@@ -1,0 +1,7 @@
+---
+applications:
+- name: tt426
+  memory: 800M
+  instances: 1
+  services:
+   - tt426-mysqlcleardb-2016-07-14 06:30:17.605
