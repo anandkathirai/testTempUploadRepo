@@ -1,0 +1,7 @@
+---
+applications:
+- name: s11
+  memory: 800M
+  instances: 1
+  services:
+   - s11-mysqlcleardb-2016-07-14 07:11:30.545
